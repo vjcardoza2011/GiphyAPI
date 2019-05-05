@@ -1,4 +1,4 @@
-FOOTBALL GIPHY!!
+# FOOTBALL GIPHY!!
 
 This assignment pulls Giphys from the Giphy API!
 
